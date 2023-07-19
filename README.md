@@ -7,8 +7,6 @@ Welcome to ChatWithPDFs, our AI-powered chatbot project! This innovative chatbot
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
