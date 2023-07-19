@@ -39,4 +39,4 @@ To run ChatWithPDFs locally, follow these steps:
 3. Access the chatbot through the provided URL or local host.
 
 ## License
-ChatWithPDFs is released under the [MIT License]([link-to-license](https://opensource.org/license/mit/)).
+ChatWithPDFs is released under the [MIT License](https://opensource.org/license/mit/).
