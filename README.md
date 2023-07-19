@@ -1,7 +1,5 @@
 # ChatWithPDFs - AI-Powered Chatbot for PDF Document Interpretation
 
-![Chatbot Demo](link-to-demo-gif)
-
 Welcome to ChatWithPDFs, our AI-powered chatbot project! This innovative chatbot is designed to read and interpret PDF documents, enabling seamless communication and knowledge extraction. With the implementation of advanced PDF parsing and text extraction algorithms, the chatbot efficiently understands and answers user questions based on the content of uploaded PDF files.
 
 ## Table of Contents
@@ -40,11 +38,5 @@ To run ChatWithPDFs locally, follow these steps:
 
 3. Access the chatbot through the provided URL or local host.
 
-## Demo
-See the chatbot in action by watching our [demo video](link-to-demo-video).
-
-## Contributing
-We welcome contributions from the community! If you'd like to contribute to ChatWithPDFs, please follow our [contribution guidelines](link-to-contributing-guide).
-
 ## License
-ChatWithPDFs is released under the [MIT License](link-to-license).
+ChatWithPDFs is released under the [MIT License]([link-to-license](https://opensource.org/license/mit/)).
