@@ -23,16 +23,17 @@ In today's digital age, vast amounts of information are stored in PDF documents,
 To run ChatWithPDFs locally, follow these steps:
 
 1. Clone this repository to your local machine.
-   git clone https://github.com/johnt0/ChatWithPDFs.git
+   ```git clone https://github.com/johnt0/ChatWithPDFs.git```
 2. Install the required dependencies using pip.
-   pip install -r requirements.txt
-3. Make sure you have Python 3.x installed on your system.
+   ```pip install -r requirements.txt```
+3. Create an .env file.
+4. Obtain an API key from OpenAI and add it to the .env file in the project directory.
 
 ## Usage
 1. Navigate to the project directory.
-   cd ChatWithPDFs
+   ```cd ChatWithPDFs```
 2. Launch the chatbot application.
-   python chatbot.py
+   ```streamlit run app.py```
 
 3. Access the chatbot through the provided URL or local host.
 
